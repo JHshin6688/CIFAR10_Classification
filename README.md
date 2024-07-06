@@ -1,5 +1,5 @@
 # ML_project_image_classification
-In this project, I built a CNN model that classifies CIFAR10 data, using PyTorch.
+In this project, I built a CNN model that classifies CIFAR10 dataset, using PyTorch.
 
 I implemented a CNN layer using torch library and named it as 'My_Conv2D'.
 
